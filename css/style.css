@@ -1,5 +1,6 @@
 * {
     background-color: #f8f9fa;
+    font-family: 'Noto Sans KR', Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -53,11 +54,6 @@ button {
     margin-left: 134px;
 }
 
-
-body {
-    font-family: 'Noto Sans KR', Arial, Helvetica, sans-serif;
-}
-
 a.nav-best, a.nav-newproduct {
     font-weight: bold;
     font-size: 20px;
@@ -109,9 +105,49 @@ img {
     justify-content: center;
 }
 
+p {
+    margin-top: 10%;
+}
+
 .container-daepyoitem {
     margin-top: 5%;
     text-align: center;
+}
+
+.img-gl {
+    width: 198px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.gl-imginfo-box {
+    width: 198px;
+}
+
+.gl-imginfo-box .gl-name, .gl-price{
+    text-align: center;
+}
+
+.gl-imginfo-box .gl-price{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container-gl {
+    width: 198px;
+    margin: 2% 2.5% 3% 2.5%;
+}
+
+.container-item-promotion {
+    margin-top: 15%;
+}
+
+.item-pro-img, .shop-info{
+    width: 630px;
+}
+
+.shop-info {
+    margin-top: 15%;
 }
 
 @media screen and (min-width:1024px) {
