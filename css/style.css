@@ -1,0 +1,126 @@
+* {
+    background-color: #f8f9fa;
+}
+
+.container {
+    padding: 0;
+}
+
+ul.nav {
+    justify-content: left;
+    height: 70px;
+}
+
+.buygl_logo{
+    margin: 6px 20px 0 0;
+}
+
+a.navbar-brand {
+    margin: 10px 50px 0 0;
+}
+
+li.nav-item {
+    margin: 32px 20px 0 20px;
+    font-family: "Noto Sans KR", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-glte, .nav-sungl, .nav-contactlenses, .nav-etc {
+    text-decoration: none;
+    color: #707070;
+    margin-top: 25px;
+}
+
+a:hover, a:active {
+    color: #ff7f2f !important;
+}
+
+button {
+    border: 0;
+    padding: 14px 20px 0 0;
+    outline: 0;
+}
+
+.search-login {
+    margin-left: 134px;
+}
+
+
+body {
+    font-family: 'Noto Sans KR', Arial, Helvetica, sans-serif;
+}
+
+a.nav-best, a.nav-newproduct {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: left;
+    letter-spacing: -1px;
+}
+
+img {
+    padding: 2px;
+    margin-right: 1rem;
+}
+
+button {
+    padding: 0;
+}
+
+img.buygl_logo {
+    margin-top: 1rem;
+}
+
+.col-lg-2 {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.icons-box.col-lg-4 {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.carousel-inner > .carousel-item > img{
+    width: 300px;
+    height: 600px;
+}
+
+img.d-block.w-100 {
+    margin-top: 3%;
+}
+
+.container-daepyoitem p {
+    font-size: 30px;
+    line-height: 32px;
+    font-weight: bold;
+    font-family: 'Noto Sans KR', Arial, Helvetica, sans-serif;
+}
+
+img {
+    justify-content: center;
+}
+
+.container-daepyoitem {
+    margin-top: 5%;
+    text-align: center;
+}
+
+@media screen and (min-width:1024px) {
+
+}
+
+@media screen and (min-width:768px) and (max-width: 1023px) {
+
+}
+
+@media screen and (max-width:767px){ 
+}
